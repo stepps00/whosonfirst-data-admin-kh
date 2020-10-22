@@ -9,7 +9,6 @@
     "geom:bbox":"105.51956927,13.1129820855,106.79,14.593423",
     "geom:latitude":13.805348,
     "geom:longitude":106.176282,
-    "gn:id":"",
     "iso:country":"KH",
     "label:eng_x_preferred_longname":[
         "St\u0153ng Tr\u00eang Province"
@@ -299,7 +298,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1582346004,
+    "wof:lastmodified":1603256846,
     "wof:name":"St\u0153ng Tr\u00eang",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

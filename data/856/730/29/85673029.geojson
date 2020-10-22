@@ -9,7 +9,6 @@
     "geom:bbox":"103.392258787,12.7482219304,104.680289102,13.9694297535",
     "geom:latitude":13.47306,
     "geom:longitude":104.018906,
-    "gn:id":"",
     "iso:country":"KH",
     "label:eng_x_preferred_longname":[
         "Siemr\u00e9ab Province"
@@ -301,7 +300,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1582346004,
+    "wof:lastmodified":1603256846,
     "wof:name":"Siemr\u00e9ab",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"103.034804206,13.8807493423,104.506899547,14.440413",
     "geom:latitude":14.165259,
     "geom:longitude":103.788594,
-    "gn:id":"",
     "iso:country":"KH",
     "label:eng_x_preferred_longname":[
         "Otdar Mean Chey Province"
@@ -309,7 +308,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1582346003,
+    "wof:lastmodified":1603256846,
     "wof:name":"Otdar Mean Chey",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

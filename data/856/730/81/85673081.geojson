@@ -9,7 +9,6 @@
     "geom:bbox":"105.588470009,11.9493554094,106.801823181,13.4069708596",
     "geom:latitude":12.628467,
     "geom:longitude":106.169959,
-    "gn:id":"",
     "iso:country":"KH",
     "label:eng_x_preferred_longname":[
         "Kr\u00e2ch\u00e9h Province"
@@ -298,7 +297,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1582346004,
+    "wof:lastmodified":1603256846,
     "wof:name":"Kr\u00e2ch\u00e9h",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

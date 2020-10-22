@@ -85,7 +85,6 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
-    "src:population_date":"",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"",
@@ -126,7 +125,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727450,
+    "wof:lastmodified":1603256862,
     "wof:name":"Tboung Khmum",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

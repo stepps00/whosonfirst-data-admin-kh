@@ -9,7 +9,6 @@
     "geom:bbox":"106.529089872,13.1713886016,107.627687,14.690179",
     "geom:latitude":13.796811,
     "geom:longitude":107.087174,
-    "gn:id":"",
     "iso:country":"KH",
     "label:eng_x_preferred_longname":[
         "R\u00f4t\u00e2n\u00f4kiri Province"
@@ -307,7 +306,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1582346004,
+    "wof:lastmodified":1603256846,
     "wof:name":"R\u00f4t\u00e2n\u00f4kiri",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

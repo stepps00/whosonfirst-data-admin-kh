@@ -9,7 +9,6 @@
     "geom:bbox":"103.77281061,11.0770845815,104.789342268,12.075546162",
     "geom:latitude":11.535323,
     "geom:longitude":104.293564,
-    "gn:id":"",
     "iso:country":"KH",
     "label:eng_x_preferred_longname":[
         "K\u00e2mp\u00f3ng Sp\u0153 Province"
@@ -295,7 +294,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1582346004,
+    "wof:lastmodified":1603256847,
     "wof:name":"K\u00e2mp\u00f3ng Sp\u0153",
     "wof:parent_id":85632359,
     "wof:placetype":"region",
